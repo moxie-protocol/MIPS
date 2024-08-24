@@ -19,7 +19,8 @@ An MIP must meet certain minimum criteria. It must be a clear and complete descr
 
 Your role as the champion is to write the MIP using the style and format described below, shepherd the discussions in the appropriate forums, and build community consensus around the idea. Following is the process that a successful MIP will move along:
 
-```json
+```
+
 Proposed -> Approved -> Implemented
   ^                     |
   +----> Rejected       +----> Moribund
@@ -27,6 +28,7 @@ Proposed -> Approved -> Implemented
   +----> Withdrawn
   v
 Deferred
+
 ```
 
 Each status change is requested by the MIP author and reviewed by the MIP editors. Use a pull request to update the status. Please include a link to where people should continue discussing your MIP. The MIP editors will process these requests as per the conditions below.
